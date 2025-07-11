@@ -36,6 +36,6 @@ public class practice4 {
 
     public static void main(String[] args) {
         System.out.println(if_test(3));
-        System.out.println(switch_test(1));
+        System.out.println(switch_test(2));
     }
 }
