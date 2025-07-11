@@ -52,7 +52,7 @@ public class Car {   // 모델과 연식 입력 및 조회 가능하게 코딩
 
         System.out.println("브랜드:"+ myCar.getBrand());
         System.out.println("모델:"+ myCar.getModel());
-        System.out.println("모델:"+ myCar.getYear());
+        System.out.println("연식:"+ myCar.getYear());
         myCar.move();
         myCar.stop();
     }
