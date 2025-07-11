@@ -57,7 +57,6 @@ public class Car {   // 모델과 연식 입력 및 조회 가능하게 코딩
         myCar.stop();
     }
 
-
 }
 
 
