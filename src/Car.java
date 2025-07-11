@@ -21,7 +21,7 @@ public class Car {   // 모델과 연식 입력 및 조회 가능하게 코딩
     }
 
     public String getBrand() {
-        return this.brand;
+        return brand;
     }
 
     // 모델 조회
@@ -29,7 +29,7 @@ public class Car {   // 모델과 연식 입력 및 조회 가능하게 코딩
         this.model = model;
     }
     public String getModel() {
-        return this.model;
+        return model;
     }
 
     // 연식 조회
@@ -39,7 +39,7 @@ public class Car {   // 모델과 연식 입력 및 조회 가능하게 코딩
     }
 
     public int getYear() {
-        return this.year;
+        return year;
 
     }
 
